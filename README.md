@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_toast_plugin_2019
 
 A new Flutter plugin.
@@ -12,3 +13,7 @@ Android and/or iOS.
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+# FlutterToastPlugin2019
+Flutter插件——Android端实现Toast
+>>>>>>> e5120d2fcb5120d62ba42753cd25cb9122868614
